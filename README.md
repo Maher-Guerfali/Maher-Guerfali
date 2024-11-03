@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maher-Guerfali
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Unity
+- 👀 I’m interested in Video Games and Astronomy
+- 🌱 Expert in Unity, Nodejs, Photoshop, C#
 - 📫 How to reach me boudmaker@gmail.com
 
 <!---
