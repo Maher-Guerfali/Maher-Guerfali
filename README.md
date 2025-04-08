@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maher Guerfali</h1>
 <h3 align="center">Software Engineer and a Game Developer</h3>
 
-- 🔭 I’m currently working on [Majiin Studios](Pingoos.gg)
+- 🔭 I’m currently working on [Majiin Studios](https://www.pingoos.gg/)
 
 - 🌱 I’m currently learning **AI,React Native**
 
-- 👨‍💻 All of my projects are available at [mahergrf.com](mahergrf.com)
+- 👨‍💻 All of my projects are available at [https://www.mahergrf.com/](https://www.mahergrf.com/)
 
 - 📫 How to reach me **boudmaker@gmail.com**
 
-- 📄 CV : [https://maherguerfalicv.tiiny.site/](https://maherguerfalicv.tiiny.site/)
+- 📄 Know about my experiences [https://maherguerfalicv.tiiny.site/](https://maherguerfalicv.tiiny.site/)
 
 - ⚡ Fun fact **Esport Gamer**
 
