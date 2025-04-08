@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **boudmaker@gmail.com**
 
-- 📄 Know about my experiences [https://maherguerfalicv.tiiny.site/](https://maherguerfalicv.tiiny.site/)
+- 📄 CV : [https://maherguerfalicv.tiiny.site/](https://maherguerfalicv.tiiny.site/)
 
 - ⚡ Fun fact **Esport Gamer**
 
