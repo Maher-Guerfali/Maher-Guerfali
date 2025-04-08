@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://maherguerfalicv.tiiny.site/](https://maherguerfalicv.tiiny.site/)
 
-- ⚡ Fun fact **Esport Gamer**
+- ⚡ Fun fact **Esport Gamer**, **Gym Rat**, **Swimmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
