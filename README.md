@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maher Guerfali</h1>
 <h3 align="center">Software Engineer and a Game Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maher-guerfali" alt="maher-guerfali" /></a> </p>
-
 - 🔭 I’m currently working on [Majiin Studios](Pingoos.gg)
 
 - 🌱 I’m currently learning **AI,React Native**
@@ -27,5 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elkarrita"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elkarrita" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maher-guerfali&show_icons=true&locale=en&layout=compact" alt="maher-guerfali" /></p>
