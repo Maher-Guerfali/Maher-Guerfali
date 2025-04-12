@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **boudmaker@gmail.com**
 
-- 📄 Know about my experiences [CV]([https://coffee-myrta-36.tiiny.site]/)
+- 📄 Know about my experiences [CV](https://coffee-myrta-36.tiiny.site/)
 
 - ⚡ Fun fact **Esport Gamer**, **Gym Rat**, **Swimmer**
 
