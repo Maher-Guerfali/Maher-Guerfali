@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **boudmaker@gmail.com**
 
-- 📄 Know about my experiences [https://maherguerfalicv.tiiny.site/](https://maherguerfalicv.tiiny.site/)
+- 📄 Know about my experiences [[https://maherguerfalicv.tiiny.site](https://coffee-myrta-36.tiiny.site/)/](https://maherguerfalicv.tiiny.site/)
 
 - ⚡ Fun fact **Esport Gamer**, **Gym Rat**, **Swimmer**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/maher-guerfali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maher-guerfali" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cabisteith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cabisteith" height="30" width="40" /></a>
-<a href="https://discord.gg/RedSkyLine_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RedSkyLine_" height="30" width="40" /></a>
+<a href="https://discord.gg/redskyline_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RedSkyLine_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
