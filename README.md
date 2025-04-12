@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maher Guerfali</h1>
 <h3 align="center">Software Engineer and a Game Developer</h3>
 
-- 🔭 I’m currently working on [Majiin Studios](https://www.pingoos.gg/)
+- 🔭 I’m currently working in [Majiin Studios](https://www.pingoos.gg/)
 
 - 🌱 I’m currently learning **AI,React Native**
 
