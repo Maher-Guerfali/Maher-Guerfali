@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maher Guerfali</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working as a Software Engineer for [DM Nova](https://dmnova.tech/#/)
+- 🔭 I’m currently working as a XR Software Engineer for [Kabetec]([https://dmnova.tech/#/](https://www.linkedin.com/company/kabetec-ug-co-kg/people/))
 
 - 🌱 I’m currently learning **AI,React Native**
 
