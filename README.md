@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maherg.guerfali@gmail.com**
 
-- 📄 Know about my experiences [CV](https://coffee-myrta-36.tiiny.site/)
+- 📄 Linkedin [Link](https://www.linkedin.com/in/maher-guerfali/)
 
 - ⚡ Fun fact **Esport Gamer**, **Gym Rat**, **Swimmer**
 
